@@ -1,4 +1,8 @@
 reuo
 reuo.event
 reuo.resources
+reuo.resources.format
+reuo.resources.io
+reuo.resources.view
+reuo.tools
 reuo.util
